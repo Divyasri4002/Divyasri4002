@@ -68,7 +68,6 @@
 ## 📊 **GitHub Analytics**
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyasri4002&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyasri4002&layout=compact&theme=dracula&hide_border=true&langs_count=6)  
 
 
