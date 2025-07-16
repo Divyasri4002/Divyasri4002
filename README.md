@@ -59,7 +59,7 @@
 |---------|-------------|------------|-------|
 | **🤖 AI Comment Analyzer** | NLP tool classifying comments into 8 categories with auto-replies | DistilBERT, Streamlit, Matplotlib | [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/Divyasri4002/AI-Comment-Categorization-Tool) |
 | **🗑️ Smart Waste Dashboard** | Flask app predicting bin fill levels using Linear Regression | Flask, Scikit-learn, JavaScript | [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/Divyasri4002/smart-waste-dashboard) |
-| **🌸 Iris Classifier** | ML model with 95% accuracy for flower species identification | Pandas, Scikit-learn, Seaborn | [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/Divyasri4002/iris-classification) |
+| **🌸 Iris Classifier** | ML model with 95% accuracy for flower species identification | Pandas, Scikit-learn, Seaborn | [![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github)](https://github.com/Divyasri4002/IRIS-CLASSIFICATION-ML-END-TO-END-PROJECT/tree/main) |
 
 </div>
 
