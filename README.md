@@ -30,16 +30,16 @@
 <div align="center">
 
 **Languages & Tools**  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Expert-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![PowerBI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
 **Machine Learning**  
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-Expert-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP_(DistilBERT)-Intermediate-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-Basic-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Basic-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP_(DistilBERT)-Basic-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)  
 
 </div>
 
